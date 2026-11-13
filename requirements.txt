@@ -1,0 +1,10 @@
+# Python dependencies for the Taraneh-Q0.6B live Persian ASR script
+# Install PyTorch separately using the CPU wheel index (see installer scripts).
+qwen-asr
+numpy
+sounddevice
+webrtcvad-wheels
+arabic-reshaper
+python-bidi
+rich
+huggingface_hub
